@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-profile-image" width="200" />
   <h1>Bem-vindos! Me chamo Luiza Pinheiro</h1>
   <p>Desenvolvedora Fullstack</p>
 </div>
@@ -8,8 +7,8 @@
 
 ### 🚀 Sobre Mim
 
-- 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas | Instituto Federal Sul-rio-grandense (IFSul).
-- 💼 Trabalho como Estagiária de desenvolvimento Fullstack | IFSul.
+- 🎓 Graduanda em Tecnologia em Análise e Desenvolvimento de Sistemas | Instituto Federal Sul-rio-grandense (IFSul).
+- 💼 Estagiária de desenvolvimento Fullstack | Instituto Federal Sul-rio-grandense (IFSul).
 
 ---
 
