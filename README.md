@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Bem-vindos! Me chamo Luiza Pinheiro</h1>
-  <p>Desenvolvedora Fullstack</p>
+  <h1>Luiza Pinheiro | Desenvolvedora Fullstack</h1>
 </div>
 
 ---
