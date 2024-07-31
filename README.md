@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Luiza Pinheiro | Desenvolvedora Fullstack</h1>
+  <p>20 anos | Rio Grande do Sul</p>
 </div>
 
 ---
