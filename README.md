@@ -40,8 +40,7 @@
 ### 🌐 Contatos
 
 - 📧 Email: [luizapinheiro.dev@gmail.com](mailto:luizapinheiro.dev@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/luiza-pinheiro)
-- 🌐 [Portfólio](https://luizapinheiro.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/luiza-pinheiro-147b18242/)
 
 ---
 
