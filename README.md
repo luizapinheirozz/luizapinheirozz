@@ -7,7 +7,7 @@
 
 ### 🚀 Sobre Mim
 
-- 🎓 Graduanda de Tecnologia em Análise e Desenvolvimento de Sistemas | Instituto Federal Sul-rio-grandense (IFSul).
+- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas | Instituto Federal Sul-rio-grandense (IFSul).
 - 💼 Estagiária de Tecnologia da Informação | Instituto Federal Sul-rio-grandense (IFSul).
 
 ---
