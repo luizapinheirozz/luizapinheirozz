@@ -45,5 +45,5 @@
 ---
 
 <div align="center">
-  <p>Feito com ❤️ por Luiza Pinheiro</p>
+  <p>Made with ❤️ by Luiza Pinheiro</p>
 </div>
