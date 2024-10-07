@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Luiza Pinheiro | Fullstack Developer</h1>
-  <p>20 years old | Brazil</p>
+  <p>20 years old, Brazil</p>
 </div>
 
 ---
@@ -8,7 +8,7 @@
 ### 🚀 About Me
 
 - 🎓 Undergraduate in Systems Analysis and Development | IFSUL
-- 💼 Information Technology Intern |IFSUL
+- 💼 Information Technology Intern | IFSUL
 
 ---
 
