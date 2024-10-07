@@ -1,18 +1,18 @@
 <div align="center">
-  <h1>Luiza Pinheiro | Desenvolvedora Fullstack</h1>
-  <p>20 anos | Rio Grande do Sul</p>
+  <h1>Luiza Pinheiro | Fullstack Developer</h1>
+  <p>20 years old | Brazil</p>
 </div>
 
 ---
 
-### 🚀 Sobre Mim
+### 🚀 About Me
 
-- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas | Instituto Federal Sul-rio-grandense (IFSul).
-- 💼 Estagiária de Tecnologia da Informação | Instituto Federal Sul-rio-grandense (IFSul).
+- 🎓 Undergraduate in Systems Analysis and Development | IFSUL
+- 💼 Information Technology Intern |IFSUL
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies and Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
@@ -37,7 +37,7 @@
 
 ---
 
-### 🌐 Contatos
+### 🌐 Contact
 
 - 📧 Email: [luizapinheiro.dev@gmail.com](mailto:luizapinheiro.dev@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/luiza-pinheiro-147b18242/)
